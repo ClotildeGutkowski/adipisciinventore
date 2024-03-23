@@ -1,0 +1,23 @@
+{
+  "name": "adipisciinventore",
+  "version": "1.0.0",
+  "description": "Zero dependency Metric Longest Common Subsequence implementation in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mollitia",
+    "metric-lcs",
+    "edit-distance",
+    "labore",
+    "metric longest common subsequence"
+  ],
+  "author": "AlexSauer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ClotildeGutkowski/adipisciinventore.git"
+  },
+  "homepage": "https://github.com/ClotildeGutkowski/adipisciinventore.git"
+}
